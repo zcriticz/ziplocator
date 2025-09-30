@@ -1,4 +1,4 @@
-package com.github.zcriticz.ziplocator.models;
+package com.github.zcriticz.ziplocator.model;
 
 import com.github.zcriticz.ziplocator.dto.ViaCEP;
 
