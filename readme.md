@@ -1,17 +1,17 @@
 # ZipLocator
 
-ZipLocator is a Java application designed to locate and process ZIP codes efficiently. The project is structured for modularity and clarity, with each file serving a specific purpose in the ZIP code location workflow.
+ZipLocator is a Java application designed to locate and process ZIP codes efficiently. The project is structured for
+modularity and clarity, with each file serving a specific purpose in the ZIP code location workflow.
 
 ## Features
 
 - Validates and locates ZIP codes.
 - Fetches ZIP code details from external sources.
-- Modular design for easy maintenance and extension.
 
 ## Requirements
 
-- Java Development Kit \(JDK\) 8 or higher
-- IntelliJ IDEA 2025.2.2 \(recommended\)
+- Java Development Kit (JDK) 21 or higher
+- IntelliJ IDEA 2025.2.2 (recommended)
 
 ## Getting Started
 
@@ -26,6 +26,10 @@ ZipLocator is a Java application designed to locate and process ZIP codes effici
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
+### Author
+
+[Cristian Santos](https://github.com/zcriticz)
+
+### License
 
 This project is licensed under the MIT License.
