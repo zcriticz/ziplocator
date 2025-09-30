@@ -32,4 +32,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ### License
 
-This project is licensed under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) License.
+This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) License.
