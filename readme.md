@@ -16,7 +16,7 @@ modularity and clarity, with each file serving a specific purpose in the ZIP cod
 ## Getting Started
 
 1. Clone the repository:
-   ```
+   ```sh
    git clone https://github.com/zcriticz/zipLocator.git
    ```
 2. Open the project in IntelliJ IDEA.
