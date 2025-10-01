@@ -7,6 +7,7 @@ modularity and clarity, with each file serving a specific purpose in the ZIP cod
 
 - Validates and locates ZIP codes.
 - Fetches ZIP code details from external sources.
+- Write results to a file.
 
 ## Requirements
 
