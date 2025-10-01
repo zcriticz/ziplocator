@@ -1,8 +1,15 @@
 {
-  "zip": "50100-260",
-  "street": "Rua Frei Cassimiro",
-  "complement": "",
-  "neighborhood": "Santo Amaro",
-  "city": "Recife",
-  "state": "PE"
+  "cep": "50100-260",
+  "logradouro": "Rua Frei Cassimiro",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Santo Amaro",
+  "localidade": "Recife",
+  "uf": "PE",
+  "estado": "Pernambuco",
+  "regiao": "Nordeste",
+  "ibge": "2611606",
+  "gia": "",
+  "ddd": "81",
+  "siafi": "2531"
 }
