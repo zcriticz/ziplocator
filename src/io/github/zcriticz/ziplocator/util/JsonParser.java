@@ -1,4 +1,4 @@
-package com.github.zcriticz.ziplocator.util;
+package io.github.zcriticz.ziplocator.util;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,4 +1,4 @@
-package com.github.zcriticz.ziplocator.util;
+package io.github.zcriticz.ziplocator.util;
 
 public class ZipWriter {
     public static void writeToFile(String filename, String content) {

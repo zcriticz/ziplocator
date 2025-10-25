@@ -1,6 +1,6 @@
-package com.github.zcriticz.ziplocator.model;
+package io.github.zcriticz.ziplocator.model;
 
-import com.github.zcriticz.ziplocator.dto.ViaCEP;
+import io.github.zcriticz.ziplocator.dto.ViaCEP;
 
 public class Address {
     private String zip;

@@ -1,10 +1,10 @@
-package com.github.zcriticz.ziplocator.main;
+package io.github.zcriticz.ziplocator.main;
 
-import com.github.zcriticz.ziplocator.util.ZipWriter;
-import com.github.zcriticz.ziplocator.dto.ViaCEP;
-import com.github.zcriticz.ziplocator.model.Address;
-import com.github.zcriticz.ziplocator.service.Zip;
-import com.github.zcriticz.ziplocator.util.JsonParser;
+import io.github.zcriticz.ziplocator.util.ZipWriter;
+import io.github.zcriticz.ziplocator.dto.ViaCEP;
+import io.github.zcriticz.ziplocator.model.Address;
+import io.github.zcriticz.ziplocator.service.Zip;
+import io.github.zcriticz.ziplocator.util.JsonParser;
 
 import java.util.Scanner;
 

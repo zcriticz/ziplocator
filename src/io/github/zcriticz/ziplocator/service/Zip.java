@@ -1,4 +1,4 @@
-package com.github.zcriticz.ziplocator.service;
+package io.github.zcriticz.ziplocator.service;
 
 import java.io.IOException;
 import java.net.URI;
